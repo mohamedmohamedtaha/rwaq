@@ -4,6 +4,7 @@ ffff
 fff
 
 mohamed tajhgj
+<<<<<<< HEAD
 andr
 
 ffff
@@ -17,11 +18,19 @@ fff
 
 mohamed tajhgj
 andr
+=======
+android developer
+
+mohamed tajhgj
+android developer
+
+>>>>>>> two
 
 ffff
 fff
 
 mohamed tajhgj
+<<<<<<< HEAD
 android developeroid developer
 
 
@@ -31,3 +40,9 @@ android developeroid developer
 android developeroid developer
 android developeroid developer
 android developeroid developer
+=======
+android developer
+
+mohamed tajhgj
+android developer
+>>>>>>> two
